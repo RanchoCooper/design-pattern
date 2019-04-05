@@ -1,4 +1,4 @@
-package chapter01.ducks;
+package chapter01.strategy;
 
 /**
  * @author rancho
@@ -25,7 +25,7 @@ public abstract class Duck {
     public abstract void display();
 
     public void swim() {
-        System.out.println("All ducks float, even decoys!");
+        System.out.println("All strategy float, even decoys!");
     }
 
     public void setFlyBehavior(IFlyBehavior fb) {

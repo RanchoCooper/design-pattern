@@ -1,8 +1,4 @@
-package chapter02.weather;
-
-import chapter02.weather.CurrentConditionDisplay;
-import chapter02.weather.Dashboard;
-import chapter02.weather.WeatherDate;
+package chapter02.observer.weather;
 
 /**
  * @author rancho

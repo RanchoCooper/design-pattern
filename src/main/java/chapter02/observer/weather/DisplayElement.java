@@ -1,4 +1,4 @@
-package chapter02.weather;
+package chapter02.observer.weather;
 
 /**
  * @author rancho

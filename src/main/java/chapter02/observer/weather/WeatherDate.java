@@ -1,8 +1,4 @@
-package chapter02.weather;
-
-import chapter02.weather.Dashboard;
-import chapter02.weather.Observer;
-import chapter02.weather.Subject;
+package chapter02.observer.weather;
 
 import java.util.ArrayList;
 

@@ -1,6 +1,4 @@
-package chapter01.ducks;
-
-import chapter01.ducks.IQuackBehavior;
+package chapter01.strategy;
 
 /**
  * @author rancho

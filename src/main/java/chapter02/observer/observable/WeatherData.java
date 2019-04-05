@@ -1,6 +1,6 @@
-package chapter02.observable;
+package chapter02.observer.observable;
 
-import chapter02.weather.Dashboard;
+import chapter02.observer.weather.Dashboard;
 
 import java.util.Observable;
 

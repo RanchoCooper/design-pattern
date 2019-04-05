@@ -1,4 +1,4 @@
-package chapter02.observable;
+package chapter02.observer.observable;
 
 /**
  * @author rancho

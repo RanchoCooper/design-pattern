@@ -1,4 +1,4 @@
-package chapter02.weather;
+package chapter02.observer.weather;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

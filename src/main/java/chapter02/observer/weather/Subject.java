@@ -1,6 +1,4 @@
-package chapter02.weather;
-
-import chapter02.weather.Observer;
+package chapter02.observer.weather;
 
 /**
  * @author rancho

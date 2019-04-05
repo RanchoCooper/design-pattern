@@ -1,4 +1,4 @@
-package chapter01.ducks;
+package chapter01.strategy;
 
 /**
  * @author rancho
