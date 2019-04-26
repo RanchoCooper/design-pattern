@@ -6,6 +6,7 @@ package chapter04.factory.pizzafm;
  */
 public class ChicagoPizzaStore extends PizzaStore {
 
+    @Override
     Pizza createPizza(String item) {
         if (item.equals("cheese")) {
             return new ChicagoStyleCheesePizza();
