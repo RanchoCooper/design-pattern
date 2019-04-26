@@ -14,8 +14,7 @@ abstract public class Pizza {
     protected String name;
     protected String dough;
     protected String sauce;
-
-    ArrayList<String> toppings = new ArrayList<String>();
+    protected ArrayList<String> toppings = new ArrayList<String>();
 
     public void prepare() {
         System.out.println("Preparing " + name);
